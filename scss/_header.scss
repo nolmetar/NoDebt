@@ -1,0 +1,12 @@
+@import "_params.scss";
+nav{
+
+}
+header nav{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+header nav div a{
+  margin: 5px;
+}

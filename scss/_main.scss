@@ -1,0 +1,24 @@
+@import "_params.scss";
+main {
+  background-color: $main_bg_color;
+  padding: 2rem 2rem;
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+strong.warning {
+  color: $warning_color;
+}
+
+strong.success {
+  color: $success_color
+}
+
+section.table article{
+  display: flex;
+}
+
+section.table article p{
+  flex: 1;
+}

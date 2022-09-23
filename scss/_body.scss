@@ -1,0 +1,9 @@
+@import "_params.scss";
+body {
+  font-family: sans-serif;
+  background-color: $body_bg_color;
+  color: $body_color;
+  margin: $body_margin;
+  width: 70%;
+  padding: 20px;
+}
